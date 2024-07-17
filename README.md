@@ -20,9 +20,30 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
+<p align="left"> 
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  </a> 
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
+  </a> 
+  <a href="https://isocpp.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="25" height="25"/> 
+  </a> 
+</p>
+
+<h3 align="left">About Me:</h3>
+<p align="left">
+  <img align="right" src="https://avatars.githubusercontent.com/u/153224944?v=4" alt="Profile Image" />
+  Hi, I'm Emirhan Çitgez, a passionate university student pursuing a degree in Computer Engineering. I am currently based in North Cyprus, where I am learning Python, C, C#, and C++. Currently, I am working on projects with Python to improve myself. I am driven by a deep curiosity and a desire to continually improve my skills. In my free time, I enjoy reading books and playing table tennis. I believe in the power of dreams and am committed to making mine a reality. Let's connect and share our journeys!
+</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emirhancitgez&show_icons=true&locale=en&layout=compact" alt="emirhancitgez" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emirhancitgez&show_icons=true&locale=en" alt="emirhancitgez" /></p>
-
