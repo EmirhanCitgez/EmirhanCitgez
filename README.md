@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/emirhancitgez" target="blank"><img src="https://img.shields.io/twitter/follow/emirhancitgez?logo=twitter&style=for-the-badge" alt="emirhancitgez" /></a> </p>
 
-- 🌱 I’m currently learning **Python, C, C#, C++**
+- 🌱 I’m currently learning **SwiftUI, UIKit, Python, C, C#, C++**
 
 - 📫 How to reach me **emirhan.citgez@final.edu.tr**
 
@@ -32,7 +32,10 @@
   </a> 
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
-  </a> 
+  </a>
+  <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/>
+</a>
   
 </p>
 
