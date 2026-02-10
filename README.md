@@ -42,7 +42,13 @@
 <h3 align="left">About Me:</h3>
 <p align="left">
   
-  Hi, I'm Emirhan Çitgez, a passionate university student pursuing a degree in Computer Engineering. I am currently based in North Cyprus, where I am learning Python, C, C#, and C++. Currently, I am working on projects with Python to improve myself. I am driven by a deep curiosity and a desire to continually improve my skills. In my free time, I enjoy reading books and playing table tennis. I believe in the power of dreams and am committed to making mine a reality. Let's connect and share our journeys!
+  Hi, I’m Emirhan Çitgez, a motivated Computer Engineering student currently based in North Cyprus, with a strong focus on iOS development.
+
+I actively work with Swift, UIKit, and SwiftUI, building iOS applications to deepen my understanding of Apple’s ecosystem, user experience design, and modern app architectures. I enjoy turning ideas into clean, functional, and user-focused interfaces while continuously improving my technical skills.
+
+In my free time, I enjoy reading books and playing table tennis, which help me maintain both mental and physical balance. I strongly believe in continuous learning and disciplined progress, and I am committed to turning my goals into real-world applications.
+
+Let’s connect and grow through shared experiences and development journeys.
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emirhancitgez&show_icons=true&locale=en&layout=compact" alt="emirhancitgez" /></p>
