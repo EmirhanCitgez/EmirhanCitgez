@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/emirhancitgez" target="blank"><img src="https://img.shields.io/twitter/follow/emirhancitgez?logo=twitter&style=for-the-badge" alt="emirhancitgez" /></a> </p>
 
-- 🌱 I’m currently learning **SwiftUI, UIKit, Python, C, C#, C++**
+- 🌱 I’m currently learning **SwiftUI, UIKit**
 
-- 📫 How to reach me **emirhan.citgez@final.edu.tr**
+- 📫 How to reach me **citgezemirhan1@icloud.com**
 
 - ⚡ Fun fact **I will reach my dreams**
 
